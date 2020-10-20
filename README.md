@@ -1,5 +1,8 @@
 # input-simple
 
+# To-Do list made on Vue.js
+[Demo](https://keztheslayer.github.io/input-simple/dist/)
+
 ## Project setup
 ```
 npm install
