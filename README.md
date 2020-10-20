@@ -1,7 +1,8 @@
-# input-simple
-
-# To-Do list made on Vue.js
+# Training task
 [Demo](https://keztheslayer.github.io/input-simple/dist/)
+
+* Reactive data
+* Allows to pass native attributes directly to input
 
 ## Project setup
 ```
